@@ -26,6 +26,7 @@ const routes = [
 export default function () {
     return new VueRouter({
         mode: 'history',
+        base: '/MST/',
         routes
     });
 };
