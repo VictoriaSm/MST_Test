@@ -1,0 +1,21 @@
+.Row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+$columns: 12;
+$gap: 20px;
+
+@for $i from 1 through $columns {
+	$colWidth: 100% / $columns * $i;
+
+	.Col-#{$i} {
+		width: calc(#{$colWidth} - #{$gap});
+		flex: 0 0 calc(#{$colWidth} - #{$gap});
+	}
+
+	.Col-#{$i}-WithGap {
+		width: calc(#{$colWidth} + #{$gap});
+		flex: 0 0 calc(#{$colWidth} + #{$gap});
+	}
+}
