@@ -88,37 +88,37 @@
                             name: 'architecture',
             				title: 'Архитектура',
             				description: 'Оригинальная архитектура жилого комплекса бизнес-класса «Первомайская» формирует современный стиль жизни Оригинальнаяархитектуражилогокомплекса',
-            				img: '/images/architecture.jpg'
+            				img: 'images/architecture.jpg'
                         },
                         {
                             name: 'improvement',
             				title: 'Благоустройство',
             				description: 'Запроектированные большие окна, которые пропускают много солнечного света, наполнят Ваши квартиры теплотой и уютом',
-            				img: '/images/improvement.jpg'
+            				img: 'images/improvement.jpg'
                         },
                         {
                             name: 'safety',
             				title: 'Безопасность',
             				description: 'Современный двор европейского уровня — территория для детей, игр на свежем воздухе и вечерних',
-            				img: '/images/safety.jpg'
+            				img: 'images/safety.jpg'
                         },
                         {
                             name: 'engineering',
             				title: 'Инженерия',
             				description: 'Оригинальная архитектура жилого комплекса бизнес-класса «Первомайская» формирует современный стиль жизни',
-            				img: '/images/engineering.jpg'
+            				img: 'images/engineering.jpg'
                         },
                         {
                             name: 'infrastructure',
             				title: 'Инфраструктура',
             				description: 'Прекрасный вариант для тех, кто предпочитает жить в спокойном районе среди интеллигенции, но при этом чувствовать ритм мегаполиса',
-            				img: '/images/infrastructure.jpg'
+            				img: 'images/infrastructure.jpg'
                         },
                         {
                             name: 'transport-accessibility',
             				title: 'Транспортная доступность',
             				description: 'Жилой комплекс «Первомайска» расположен в престижном Академическом районе',
-            				img: '/images/transport-accessibility.jpg'
+            				img: 'images/transport-accessibility.jpg'
                         }
                     ]
                 }
