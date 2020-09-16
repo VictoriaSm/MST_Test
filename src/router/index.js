@@ -26,7 +26,7 @@ const routes = [
 export default function () {
     return new VueRouter({
         mode: 'history',
-        base: '/MST/',
+        base: '/MST_Test/build/',
         routes
     });
 };
